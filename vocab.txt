@@ -1,0 +1,4 @@
+download link
+
+
+https://huggingface.co/Abhinayathir/memory-triggered-emotion-classifier/resolve/main/vocab.txt
